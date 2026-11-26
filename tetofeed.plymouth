@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=tetofeed
+Description=VHS boot with your favourite queen: red twindrills under scanlines and grain, rolling tracking band, VCR on-screen display, tape-block progress
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/tetofeed
+ScriptFile=/usr/share/plymouth/themes/tetofeed/tetofeed.script
